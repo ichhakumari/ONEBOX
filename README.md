@@ -12,7 +12,7 @@ Project is Live here...  https://startling-tulumba-2cb36c.netlify.app/
 
 <p><strong>Hot Tip:</strong> Use the 7-day free trial to fully experience and understand ReachInbox.ai before starting your assignment.</p>
 
-<h2>Assignment Overview</h2>
+<h2>Overview</h2>
         <p>Your task is to use the designs and APIs provided to create a functional web app. Below are the instructions to complete the assignment:</p>
         <ol>
             <li><strong>Implement the login page:</strong> Use the design provided.</li>
